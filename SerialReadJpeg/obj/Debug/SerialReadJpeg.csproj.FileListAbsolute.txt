@@ -1,0 +1,10 @@
+C:\Users\x\source\repos\SerialReadJpeg\SerialReadJpeg\bin\Debug\SerialReadJpeg.exe.config
+C:\Users\x\source\repos\SerialReadJpeg\SerialReadJpeg\bin\Debug\SerialReadJpeg.exe
+C:\Users\x\source\repos\SerialReadJpeg\SerialReadJpeg\bin\Debug\SerialReadJpeg.pdb
+C:\Users\x\source\repos\SerialReadJpeg\SerialReadJpeg\obj\Debug\SerialReadJpeg.csprojAssemblyReference.cache
+C:\Users\x\source\repos\SerialReadJpeg\SerialReadJpeg\obj\Debug\SerialReadJpeg.Form1.resources
+C:\Users\x\source\repos\SerialReadJpeg\SerialReadJpeg\obj\Debug\SerialReadJpeg.Properties.Resources.resources
+C:\Users\x\source\repos\SerialReadJpeg\SerialReadJpeg\obj\Debug\SerialReadJpeg.csproj.GenerateResource.cache
+C:\Users\x\source\repos\SerialReadJpeg\SerialReadJpeg\obj\Debug\SerialReadJpeg.csproj.CoreCompileInputs.cache
+C:\Users\x\source\repos\SerialReadJpeg\SerialReadJpeg\obj\Debug\SerialReadJpeg.exe
+C:\Users\x\source\repos\SerialReadJpeg\SerialReadJpeg\obj\Debug\SerialReadJpeg.pdb
